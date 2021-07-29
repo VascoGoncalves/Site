@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Vasco Gonçalves"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/IMG_20180528_093228selfie3.jpg"
   bio              : "Upgrading to a better version "
   location         : "Porto"
   email            :
