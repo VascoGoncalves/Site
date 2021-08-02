@@ -7,10 +7,10 @@ header:
    #overlay_image: crabnebhd-1.png
    #caption: "[Image credit: **NASA/ESA**](https://www.spacetelescope.org/images/heic0515a/)"
    overlay_filter: .2
-categories: thoughts
-tags:
-- review
-author: John_Joseph
+#categories: thoughts
+#tags:
+#- review
+#author: John_Joseph
 pinned: true
 ---
 
