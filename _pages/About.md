@@ -13,3 +13,5 @@ comments: true
 ---
 
 ## Short Bio
+
+Physicist born in a relatively small town near Porto.
